@@ -1,0 +1,17 @@
+Java Features
+JDK1.0 				Jan 1996
+J2SE 5.0 			Sept 2004 	Enhanced for loop, Generics, Enums, Autoboxing
+Jave SE 8 (LTS)		Mar 2014 	Functional Programming - Lambdas & Streams, Static methods in interface 
+Java SE 9 			Sept 2017	Modularization (Java Platform Module System) 
+Java SE 10			Mar 2018	Local Variable Type Inference 
+Java SE 14 			Mar 2020	Switch Expressions
+Java SE 15 			Sep 2020	Text Blocks
+Java SE 16			Mar 2021	Record Class 
+
+All Java version - API improvements, performance and Garbage collection improvements
+
+
+
+
+https://www.youtube.com/watch?v=8hA47LxykPo
+For Java8 : https://www.journaldev.com/2389/java-8-features-with-examples

@@ -1,0 +1,11 @@
+Java Versioning 
+
+JDK1.0 				Jan 1996
+J2SE 5.0 			Sept 2004 	5 Releases in 8 years 
+Jave SE 8 (LTS)		Mar 2014 	Most important Java Release. This introduce functional programming like lambda, stream,..
+Java SE 9 			Sept 2017	4 Releases in 13 years
+Java SE 10			Mar 2018	Time-Based Release Versioning. Release every 6 months
+Java SE 11 (LTS)	Sept 2018	Long Term Support Version (Every 3 years)
+Java SE 12 			Mar 2019
+..
+Java SE 16			Mar 2021 

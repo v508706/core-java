@@ -1,0 +1,39 @@
+Index
+/**
+	 * 
+	 * https://github.com/ashishmusani/HackerEarthSolutions
+	 * 
+	 * 
+	 * Blob Amazon S3 + CDN 
+	 * Redis Cache
+	 * Elastic Search, Solr
+	 * Metrics TimeSeries Database OpenTSB
+	 * Datwarehouse / Analytics on lot of system Hadoop
+	 * 
+	 * 
+	 * How to choose Database
+	 * 		1. Structure of Data
+	 * 		2. Volume
+	 * 		3. How you query
+	 * 
+	 *  
+	 *  Structured Data + ACID -> RDDBMS (MySQL, ORacle, Postgres, SQL Server). Ex :user, employee data
+	 *  Non - Structured Data + Different characteristics of entity + Complex queries -> Document DB (Mongo DB, Couch Base). Ex: ecommerce with t-shirt, mobile,fridge,..
+	 *  Non - Structured Data + Ever Increasing Data +finite (less) queries ->  Columnar DB (Cassandra, HBase) Ex: Uber driver sending locations
+	 * 
+	 * 
+	 */
+	 
+	 
+
+Below are some common Big-O functions while analyzing algorithms.
+
+O(1) - constant time
+O(log(n)) - logarithmic time
+O((log(n))^c) - polylogarithmic time
+O(n) - linear time
+O(n^2) - quadratic time
+O(n^c) - polynomial time
+O(c^n) - exponential time
+O(n!) - factorial time
+(n = size of input, c = some constant)
